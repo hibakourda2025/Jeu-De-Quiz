@@ -2,8 +2,7 @@
 
 ## 📌 Description
 
-> Ce projet a été réalisé dans le cadre de mes études en Business Intelligence.
-> Il s'agit d'un **jeu de quiz** développé en langage **C** sous forme d'application console.
+> Ce projet est un **jeu de quiz** développé en langage **C** sous forme d'application console.
 
 Le joueur doit répondre à des questions de culture générale choisies **aléatoirement** depuis une base de données contenant plusieurs questions de différents niveaux.
 
@@ -85,10 +84,14 @@ Le score augmente selon le **niveau de difficulté** :
 #include <unistd.h>
 ```
 
-## 📄 Rapport du Projet
+## 📄 Rapport du projet
 
-Le dépôt contient également un fichier **PDF** expliquant :
+Le rapport du projet présente en détail l’organisation du programme, les principales fonctions implémentées ainsi que le déroulement complet du développement.
 
-- L'organisation du programme
-- Les différentes fonctions
-- Le déroulement du projet
+👉 [Accéder au rapport complet](./https://drive.google.com/file/d/1P1ZevSSift6CEMAI8y1AmLdv_CYUXzvT/view?usp=sharing)
+
+
+### 👩‍💻 Auteur : Hiba Kourda 
+Étudiante en Business Intelligence
+
+Ce projet a été réalisé dans un cadre académique afin de renforcer mes compétences en programmation.
