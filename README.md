@@ -1,4 +1,4 @@
-# 🎮 Quiz Game en C
+#  Quiz Game en C
 
 ## 📌 Description
 
@@ -88,7 +88,7 @@ Le score augmente selon le **niveau de difficulté** :
 
 Le rapport du projet présente en détail l’organisation du programme, les principales fonctions implémentées ainsi que le déroulement complet du développement.
 
-👉 [Accéder au rapport complet](./https://drive.google.com/file/d/1P1ZevSSift6CEMAI8y1AmLdv_CYUXzvT/view?usp=sharing)
+👉 [Accéder au rapport complet](https://drive.google.com/file/d/1P1ZevSSift6CEMAI8y1AmLdv_CYUXzvT/view?usp=sharing)
 
 
 ### 👩‍💻 Auteur : Hiba Kourda 
